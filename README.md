@@ -1,4 +1,4 @@
-# php-api-mock-sample
+# php-builtin-server-sample
 
 docker-compose build
 
